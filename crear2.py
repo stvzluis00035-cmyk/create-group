@@ -9,7 +9,7 @@ from pyrogram.errors import SessionPasswordNeeded, PhoneNumberInvalid, PhoneCode
 from collections import defaultdict
 
 # Configuración del BOT (REEMPLAZA CON TU TOKEN REAL)
-BOT_TOKEN = "7559435897:AAEZRmZ7ejeQUnwgh1S-KifQNyaTgqLYtR0"  # ⚠️ REEMPLAZA ESTO
+BOT_TOKEN = "8283185863:AAGLW1SlkShUvmk15aZNMRVJ7p9NNIFvcdE"  # ⚠️ REEMPLAZA ESTO
 
 # Configuración de la API
 API_ID = 13876032
